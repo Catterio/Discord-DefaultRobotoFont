@@ -94,17 +94,3 @@
     font-weight: 800;
     src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Inter-800It.woff2") format("woff2");
 }
-
-@font-face {
-    font-family: "Inter";
-    font-style: normal;
-    font-weight: 900;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Inter-900.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "Inter";
-    font-style: italic;
-    font-weight: 900;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Inter-900It.woff2") format("woff2");
-}
