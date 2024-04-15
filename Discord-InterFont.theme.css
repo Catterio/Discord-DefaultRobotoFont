@@ -15,96 +15,96 @@
     font-family: "Inter";
     font-style: normal;
     font-weight: 300;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-300-Light.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-300-Light.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: italic;
     font-weight: 300;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-300-LightItalic.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-300-LightItalic.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: normal;
     font-weight: 400;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-400-Regular.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-400-Regular.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: italic;
     font-weight: 400;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-400-RegularItalic.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-400-RegularItalic.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: normal;
     font-weight: 500;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-500-Medium.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-500-Medium.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: italic;
     font-weight: 500;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-500-MediumItalic.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-500-MediumItalic.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: normal;
     font-weight: 600;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-600-Medium.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-600-Medium.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: italic;
     font-weight: 600;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-600-MediumItalic.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-600-MediumItalic.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: normal;
     font-weight: 700;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-700-Bold.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-700-Bold.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: italic;
     font-weight: 700;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-700-BoldItalic.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-700-BoldItalic.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: normal;
     font-weight: 800;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-800-Black.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-800-Black.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: italic;
     font-weight: 800;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-800-BlackItalic.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-800-BlackItalic.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: normal;
     font-weight: 900;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-900-Black.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-900-Black.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Inter";
     font-style: italic;
     font-weight: 900;
-    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/fonts/Roboto-900-BlackItalic.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Roboto-900-BlackItalic.woff2") format("woff2");
 }
