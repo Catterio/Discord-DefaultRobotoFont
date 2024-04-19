@@ -6,6 +6,8 @@
 * @source https://github.com/Catterio/Discord-DefaultRobotoFont
 */
 
+@import url("https://fonts.googleapis.com/css2?family=Source Code Pro:wght@400;700&display=swap");
+
 :root {
     --font-primary: "Inter", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
     --font-display: "Inter", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
