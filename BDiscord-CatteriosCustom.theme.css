@@ -6,10 +6,9 @@
 * @source https://github.com/Catterio/Discord-DefaultRobotoFont/tree/BDiscord-CatteriosCustom
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Source Code Pro:wght@400;700&display=swap");
 
 :root {
-    --font-primary: "Inter", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+    --font-primary: "Inter", "Source Code Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
     --font-display: "Inter", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
 }
 
@@ -96,6 +95,8 @@
     font-weight: 800;
     src: url("https://cdn.jsdelivr.net/gh/Catterio/Discord-DefaultRobotoFont/tree/DC-Inter/fonts/Inter-800It.woff2") format("woff2");
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 
 :root {
     /* --------- BASE THEME --------- */
