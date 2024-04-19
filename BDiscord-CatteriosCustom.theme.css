@@ -9,7 +9,7 @@
 
 :root {
     --font-primary: "Inter", "Source Code Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
-    --font-display: "Inter", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+    --font-display: "Inter", "Source Code Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
 }
 
 @font-face {
